@@ -1,2 +1,1 @@
-{"id":"./index.html","name":"芦屋レース予想 2026.09.24","short_name":"芦屋予想","description":"芦屋レースの買い目と根拠","start_url":"./ashiya-picks.html","scope":"./","display":"standalone","background_color":"#071e2d","theme_color":"#071e2d","lang":"ja","icons":[{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
-
+{"id":"./index.html","name":"芦屋レース予想 2026.09.24","short_name":"芦屋予想","description":"芦屋レースの買い目と根拠","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#071e2d","theme_color":"#071e2d","lang":"ja","icons":[{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
